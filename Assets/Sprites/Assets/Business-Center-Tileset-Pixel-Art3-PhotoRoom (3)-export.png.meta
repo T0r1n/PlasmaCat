@@ -1,0 +1,1531 @@
+fileFormatVersion: 2
+guid: 8dd6b94e1e96b42459fb8f24981717fe
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 33
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_0
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 695
+        width: 115
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cc645bd059d7d40bf6cbc6e19ed7e5
+      internalID: 1853954585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 694
+        width: 77
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c782df7006811064c9c8be5482af9562
+      internalID: 1925286408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 694
+        width: 116
+        height: 141
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a4a7a08f3e3d045804da1fafe5fc46
+      internalID: -943744332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_3
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 694
+        width: 90
+        height: 117
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d0638360580774dbaedfc999316629
+      internalID: -378699495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_4
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 694
+        width: 70
+        height: 122
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72cb30c93c319d41822a67685187580
+      internalID: -694697547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_5
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 755
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192a25bf30804564bbe832df8309166e
+      internalID: -548375455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_6
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 807
+        width: 105
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869300b964d10c74c87162009057d5a5
+      internalID: -2007689733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_7
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 807
+        width: 115
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bc837909f3d96488c392050ee8a1cb
+      internalID: 555847678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 695
+        width: 89
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6465badf0556aa4d80d53d0af068477
+      internalID: 682535539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 695
+        width: 90
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5000002, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1855db68a1da3df41ae0f342c1ea5939
+      internalID: 2051631774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_10
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 666
+        width: 84
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7133e6c1fd8e7f841975add23a0961a5
+      internalID: -1159419950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_11
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 734
+        width: 88
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479f694f62a553947ae817630bc3985f
+      internalID: 1981502825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_12
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 734
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf3076028ad5bd4fba702152a0b1e1d
+      internalID: 1742575148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_13
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 675
+        width: 26
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590a745478e1f3c4d8876a64bc51a16c
+      internalID: -790594628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 470
+        width: 105
+        height: 214
+      alignment: 9
+      pivot: {x: 0.5, y: 0.51724213}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2c325a0fd463d4bbef846a4d16288f
+      internalID: 1139872132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_15
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 674
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23d539652a5f494ca693ebb1e432743
+      internalID: -1378281676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_16
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 674
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e183cd678e1ab4d408bf05c21c7ee878
+      internalID: 467537887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_17
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 674
+        width: 18
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5282762, y: 3.0331159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8b6761e2df22c448854a3e171f48ce
+      internalID: -1809618181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_18
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 674
+        width: 19
+        height: 7
+      alignment: 9
+      pivot: {x: 0.48661724, y: 3.2980435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19210c47204dd7c419d642181de4710c
+      internalID: 1555775115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_19
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 675
+        width: 18
+        height: 34
+      alignment: 9
+      pivot: {x: -0.11453586, y: 0.6097627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf940fe6415d5e4585a2c6e8069d9e6
+      internalID: 1118848024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_20
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 675
+        width: 19
+        height: 34
+      alignment: 9
+      pivot: {x: 1.1133969, y: 0.71147424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b082c83a245ca458220f78f48dc717
+      internalID: 705158688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 610
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67d9e011c2a107409da850870b3d02e
+      internalID: -529107476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_22
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 610
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b45bf88556b8243bf1276ba7a2d3fe
+      internalID: -1419892928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 470
+        width: 88
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f83ddfb8279ac4c9a90e3acfaf9213
+      internalID: 935814830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_24
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 470
+        width: 117
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5078837, y: 0.5319661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645b1b125611cfe44be551b8e06d0015
+      internalID: -435329135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_25
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 470
+        width: 135
+        height: 202
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5388159}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e0620c260896746a70df4bf951da64
+      internalID: 1794417964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_26
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 470
+        width: 118
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069856a3ebe90b443a92127960bb02aa
+      internalID: -934537561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_27
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 578
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df73fd4c5bbb4540b21d9aa8147caad
+      internalID: 1928491049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_28
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 578
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc62246c6c21a25438315ac4287c132e
+      internalID: 63307106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_29
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 578
+        width: 62
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f8d9880fe2ae14088e5ccf526616e2
+      internalID: 1997125500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_30
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 578
+        width: 63
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7d7cf19002e38499a4c08d73674e5d
+      internalID: 710762057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_31
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 578
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca9c60ed1ee2064e94e0ee40b7264d3
+      internalID: 388455565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_32
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 469
+        width: 64
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d183babf27932245ad46cba51635534
+      internalID: 622069966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_33
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 449
+        width: 100
+        height: 110
+      alignment: 9
+      pivot: {x: 0.4964673, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6473a77b715d11c42a81493efb0f7c85
+      internalID: 2046896516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_34
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 449
+        width: 105
+        height: 65
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f02154191bd77948bc7ae2bc05d63be
+      internalID: 1201144509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_36
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 448
+        width: 106
+        height: 66
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a967fc50445c34fb1d5121704f383f
+      internalID: -1249552993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_37
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 351
+        width: 130
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a08494709ca60449d1af6ba0bae78d
+      internalID: -1249804988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_38
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 351
+        width: 127
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73402b5e27d66e64bb47b0ff2d5310ef
+      internalID: -1783618156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_39
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 351
+        width: 151
+        height: 74
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8d3b59300735745bb977632ad1e83a
+      internalID: -637372114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_40
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 351
+        width: 134
+        height: 82
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b88b24e7d8f74982e8b4c82669d6e
+      internalID: -819812717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_41
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 351
+        width: 132
+        height: 85
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2742f215d30e61740b78e1e9a9ec9231
+      internalID: -1248400539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_42
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 283
+        width: 102
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb5dc28532519649b47c0a735817d36
+      internalID: 854020420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_43
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 283
+        width: 105
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b05270a818ba1241984cf1e3d9cb257
+      internalID: 1299946343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_44
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 283
+        width: 107
+        height: 131
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8423c44f609d2f54c93f9d096a6df9f0
+      internalID: 90566244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 119
+        width: 102
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8ed5bf295c02c43a8cdfedca7320b2
+      internalID: -1108819330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_46
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 119
+        width: 107
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d7e724901d3f547b9b776d7ac71708
+      internalID: -1592380706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_47
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 119
+        width: 84
+        height: 127
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aa948aee71e224e891c9d08c8e8fcb
+      internalID: -1058070129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_48
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 119
+        width: 113
+        height: 90
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac45cf9e659a9794c98ef2702a5a4d0b
+      internalID: 477257498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_49
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 119
+        width: 101
+        height: 79
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6696a590df50d2d458b8b0f6d23c6928
+      internalID: 518605095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_50
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 119
+        width: 96
+        height: 100
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0ee76a990e83d4197cd538015c897f
+      internalID: -407375421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_51
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 119
+        width: 98
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4d30393fdc1b84f9fb6626f78ea0d4
+      internalID: 1552445727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_52
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 119
+        width: 121
+        height: 130
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f466b8c4add574189156107ef78470
+      internalID: 1499501115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_53
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 25
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3991851907eadf4dacafadf123fa832
+      internalID: 1809320029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_54
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 25
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf094e400b882c4f862ae12c05c9309
+      internalID: -1328705005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_55
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 25
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c6ac7bc4968e840937b912e54de273
+      internalID: -354268026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_56
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 25
+        width: 84
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16ab28a721094a48a4946399b256b90
+      internalID: 1142056508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_57
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 25
+        width: 83
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2ffe10447b6884d9403f016ad495be
+      internalID: 1356366554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_58
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 25
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086c9d60b1cad5d48afd7171ad61b2e9
+      internalID: 272039121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_59
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 25
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161f6c8bd65cb9d45aebf4513455a071
+      internalID: 1214040738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_60
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 25
+        width: 68
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712f6813ebab391439641e0f15f81abb
+      internalID: 568222539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_61
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 25
+        width: 67
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0d09e1f80101842a56e114d459a5bd
+      internalID: -1799805049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_62
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 25
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6bbbd3f70f1a349a7bfd11c8b3ff77
+      internalID: 17895934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_63
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 25
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae0abd3d552c344d8ef782394fde835
+      internalID: 1245939469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_35
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 25
+        width: 77
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c42a6b5bea2928d489810e46c05fe1c9
+      internalID: 1710202561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_5: -548375455
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_2: -943744332
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_25: 1794417964
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_30: 710762057
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_1: 1925286408
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_56: 1142056508
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_16: 467537887
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_11: 1981502825
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_47: -1058070129
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_43: 1299946343
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_29: 1997125500
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_34: 1201144509
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_9: 2051631774
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_28: 63307106
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_12: 1742575148
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_17: -1809618181
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_55: -354268026
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_60: 568222539
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_3: -378699495
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_35: 1710202561
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_13: -790594628
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_33: 2046896516
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_8: 682535539
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_22: -1419892928
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_53: 1809320029
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_7: 555847678
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_40: -819812717
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_36: -1249552993
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_63: 1245939469
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_50: -407375421
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_49: 518605095
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_39: -637372114
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_6: -2007689733
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_18: 1555775115
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_27: 1928491049
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_15: -1378281676
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_48: 477257498
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_61: -1799805049
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_54: -1328705005
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_20: 705158688
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_31: 388455565
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_37: -1249804988
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_51: 1552445727
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_62: 17895934
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_52: 1499501115
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_14: 1139872132
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_24: -435329135
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_38: -1783618156
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_44: 90566244
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_58: 272039121
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_0: 1853954585
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_46: -1592380706
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_32: 622069966
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_21: -529107476
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_19: 1118848024
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_42: 854020420
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_45: -1108819330
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_26: -934537561
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_41: -1248400539
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_57: 1356366554
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_23: 935814830
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_10: -1159419950
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_4: -694697547
+      Business-Center-Tileset-Pixel-Art3-PhotoRoom (3)-export_59: 1214040738
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

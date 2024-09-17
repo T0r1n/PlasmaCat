@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bisnes_Atl
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -767456399, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -229492259, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 973727888, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 650184977, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 2062299378, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 2089973000, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 1548731017, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 542155245, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -223302890, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -551691371, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -1125851922, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -389566976, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -582292094, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -1447143115, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 508926883, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 1196376640, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -2046953033, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -649473510, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 446358283, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -2051052739, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -1640286483, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -22836868, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -683102108, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 1518848021, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 676904530, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -1234999302, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 2103203335, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 633829508, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 1820239094, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -54171347, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 1055971474, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -848988842, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -641898667, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -1804590338, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 1641409241, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -1880811072, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -314700877, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 1513968344, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -66342132, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -508131047, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 1360854123, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -461836180, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 1235228982, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -658225729, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -1932036827, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 1047086972, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -168170217, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -748972384, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -1293928477, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 1450609183, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -1691171864, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -655782371, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 879349221, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -1964204446, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 280446408, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -965583485, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 1876387395, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: 558847445, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -1925147591, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  - {fileID: -276270705, guid: 323dc9b255377004eb53ccd0ed17d2e8, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Bisnes_new__15
+  - Bisnes_new__46
+  - Bisnes_new__14
+  - Bisnes_new__47
+  - Bisnes_new__17
+  - Bisnes_new__44
+  - Bisnes_new__16
+  - Bisnes_new__45
+  - Bisnes_new__59
+  - Bisnes_new__11
+  - Bisnes_new__42
+  - Bisnes_new__58
+  - Bisnes_new__10
+  - Bisnes_new__43
+  - Bisnes_new__13
+  - Bisnes_new__40
+  - Bisnes_new__12
+  - Bisnes_new__41
+  - Bisnes_new__51
+  - Bisnes_new__19
+  - Bisnes_new__50
+  - Bisnes_new__18
+  - Bisnes_new__53
+  - Bisnes_new__48
+  - Bisnes_new__52
+  - Bisnes_new__49
+  - Bisnes_new__55
+  - Bisnes_new__54
+  - Bisnes_new__57
+  - Bisnes_new__56
+  - Bisnes_new__6
+  - Bisnes_new__7
+  - Bisnes_new__4
+  - Bisnes_new__5
+  - Bisnes_new__2
+  - Bisnes_new__3
+  - Bisnes_new__0
+  - Bisnes_new__1
+  - Bisnes_new__8
+  - Bisnes_new__9
+  - Bisnes_new__28
+  - Bisnes_new__29
+  - Bisnes_new__24
+  - Bisnes_new__25
+  - Bisnes_new__39
+  - Bisnes_new__26
+  - Bisnes_new__38
+  - Bisnes_new__27
+  - Bisnes_new__37
+  - Bisnes_new__20
+  - Bisnes_new__36
+  - Bisnes_new__21
+  - Bisnes_new__35
+  - Bisnes_new__22
+  - Bisnes_new__34
+  - Bisnes_new__23
+  - Bisnes_new__33
+  - Bisnes_new__32
+  - Bisnes_new__31
+  - Bisnes_new__30
+  m_RenderDataMap: {}
+  m_Tag: Bisnes_Atl
+  m_IsVariant: 0

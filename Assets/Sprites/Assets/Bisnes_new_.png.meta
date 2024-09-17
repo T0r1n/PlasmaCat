@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 323dc9b255377004eb53ccd0ed17d2e8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bisnes_new__0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 776
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c60810375a273c4d86ec3d4174fbc75
+      internalID: -314700877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 776
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5b85ead6f063c47a462fc07f8b6670
+      internalID: 1513968344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 776
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897727651b2e0184bae11c2bf1eb207f
+      internalID: 1641409241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 776
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c661342cfa57a74aa96152113f756c0
+      internalID: -1880811072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 776
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fefb882e32c84843b32fcab288e2069
+      internalID: -641898667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__5
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 776
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02369e1b6984b849acf00989232c85b
+      internalID: -1804590338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__6
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 776
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8226d17a1fb7f394ba8a331a4a1f83b1
+      internalID: 1055971474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__7
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 776
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e09055057ab734ab92e2522ccb3f63
+      internalID: -848988842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__8
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 776
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5b0209f04c3c5478b4f2d7866eb1c7
+      internalID: -66342132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__9
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 776
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51b42bf3b7cdea41bf4bc4ce8985a32
+      internalID: -508131047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29fc18616d2bb748b27209083e134d1
+      internalID: -582292094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9256fad50d588f438a27f94d50a805c
+      internalID: -551691371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b41ef7122cf5c643812213f9611d664
+      internalID: -2046953033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__13
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4c966c6f3e58840831333f149bfbbe
+      internalID: 508926883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__14
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5cf7b114f0b9441a4ab2f490fde3ec
+      internalID: 973727888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__15
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9d1f5ff3038a84ea6df0850405e6f0
+      internalID: -767456399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__16
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4134715b82f6b04fb4b6d217a4ec473
+      internalID: 1548731017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__17
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c7d5ae4f48ddf44aacc309737c7241
+      internalID: 2062299378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__18
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2db203fa06964409812d9f76db61e1
+      internalID: -22836868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__19
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 631
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36211268cb50aa141bae400fb4dc9ddd
+      internalID: -2051052739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 486
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc356af82a5435d4ab1393c7ee1b0537
+      internalID: 1450609183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 486
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0771e543528be2042afa9e6ea8354ac4
+      internalID: -655782371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__22
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 486
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73d53a367893d043aaa1c4781f48193
+      internalID: -1964204446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__23
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 486
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139fb0b9f87e6d24895c61459a854d10
+      internalID: -965583485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__24
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 486
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898719cd2291354b91b012e137e69c6
+      internalID: 1235228982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__25
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 486
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fcaab541b29e743b47e1dc98ecd583
+      internalID: -658225729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__26
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 486
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0b1e1a035679f42a47d183f7dfb683
+      internalID: 1047086972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__27
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 486
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51042132dcc250c4c9bcda0d0d16bcee
+      internalID: -748972384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__28
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 487
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571765e36f542bf4d94c62ed5675248e
+      internalID: 1360854123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__29
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 486
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aa37eac042a454c896272f42159246
+      internalID: -461836180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 340
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5978cc1a4beca84cb576398bf056a63
+      internalID: -276270705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__31
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 340
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634b510cabbb33445bd7985e43f4a5ae
+      internalID: -1925147591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 340
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc32f3c6b6afdc449a453cd4e2db707
+      internalID: 558847445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__33
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 340
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9171ed9abe995546ba25c1686c11981
+      internalID: 1876387395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__34
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 340
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf905a53214dae4f969c674fb042a4b
+      internalID: 280446408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__35
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 340
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48da593db2f4294458811ea3bffbd787
+      internalID: 879349221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__36
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 340
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214e78007148c1f4bb9725fa2979a010
+      internalID: -1691171864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__37
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 340
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70998c9e48f85e845bc5b17bd4095081
+      internalID: -1293928477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__38
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 340
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc90848a49e385c43abe36a489ca22b3
+      internalID: -168170217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__39
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 340
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6dc321b890c224f8759eeefc70290f
+      internalID: -1932036827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9bdd33aa4e35d479937503b8109e48
+      internalID: 1196376640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__41
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a644bfef4a9701f41bca8d7d9261e2b0
+      internalID: -649473510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__42
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 260
+        width: 128
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a531a407656c7da48bdfcde12376c95c
+      internalID: -1125851922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__43
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 260
+        width: 128
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2206f164a1539428b697ecd2ab0f1b
+      internalID: -1447143115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__44
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 260
+        width: 128
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f973492fb3ef349b82f7d93a9a2944
+      internalID: 2089973000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__45
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 260
+        width: 128
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853f174b5478dc44e8f996ac64972a29
+      internalID: 542155245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__46
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 260
+        width: 128
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc88804500632f14d8fcc8920f7c3ffe
+      internalID: -229492259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__47
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 196
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1669f7e0c2a37c499b3f6cdddc5e8e8
+      internalID: 650184977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__48
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 196
+        width: 128
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d2a19a0f6f5c041abdf7e6cf1a1644
+      internalID: 1518848021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__49
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 196
+        width: 128
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffaae2f1b341ef47b8ee238908f6508
+      internalID: -1234999302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 51
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca78eaca5076f943aff7a384692f699
+      internalID: -1640286483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__51
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 51
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d1c1c55fb38e340919e85a83466f1c
+      internalID: 446358283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__52
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 51
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53f97b8575edc94183b2fc5c45fc240
+      internalID: 676904530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__53
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 51
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792dd5c135d1d3847828cd6a7ff8ca8c
+      internalID: -683102108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__54
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 51
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebfb1fbc1c567045bab3b7133832832
+      internalID: 633829508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__55
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 51
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc27506618c4794cbdcd6a9bde3e70d
+      internalID: 2103203335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__56
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 51
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea1f4eb1fa3a1a4dba2d45ce59d1483
+      internalID: -54171347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__57
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 51
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435b3557e78efd948b233a0f45cb0ed3
+      internalID: 1820239094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__58
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 51
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ce149af8623694387fa6c33c2e16c9
+      internalID: -389566976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bisnes_new__59
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 51
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf312096bf8a544590bac2ae48ac432
+      internalID: -223302890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bisnes_new__59: -223302890
+      Bisnes_new__6: 1055971474
+      Bisnes_new__35: 879349221
+      Bisnes_new__23: -965583485
+      Bisnes_new__26: 1047086972
+      Bisnes_new__44: 2089973000
+      Bisnes_new__5: -1804590338
+      Bisnes_new__40: 1196376640
+      Bisnes_new__57: 1820239094
+      Bisnes_new__21: -655782371
+      Bisnes_new__50: -1640286483
+      Bisnes_new__42: -1125851922
+      Bisnes_new__37: -1293928477
+      Bisnes_new__38: -168170217
+      Bisnes_new__4: -641898667
+      Bisnes_new__11: -551691371
+      Bisnes_new__10: -582292094
+      Bisnes_new__15: -767456399
+      Bisnes_new__55: 2103203335
+      Bisnes_new__20: 1450609183
+      Bisnes_new__9: -508131047
+      Bisnes_new__41: -649473510
+      Bisnes_new__47: 650184977
+      Bisnes_new__25: -658225729
+      Bisnes_new__14: 973727888
+      Bisnes_new__49: -1234999302
+      Bisnes_new__53: -683102108
+      Bisnes_new__46: -229492259
+      Bisnes_new__17: 2062299378
+      Bisnes_new__32: 558847445
+      Bisnes_new__19: -2051052739
+      Bisnes_new__54: 633829508
+      Bisnes_new__58: -389566976
+      Bisnes_new__13: 508926883
+      Bisnes_new__8: -66342132
+      Bisnes_new__52: 676904530
+      Bisnes_new__31: -1925147591
+      Bisnes_new__56: -54171347
+      Bisnes_new__30: -276270705
+      Bisnes_new__12: -2046953033
+      Bisnes_new__34: 280446408
+      Bisnes_new__16: 1548731017
+      Bisnes_new__27: -748972384
+      Bisnes_new__2: 1641409241
+      Bisnes_new__39: -1932036827
+      Bisnes_new__43: -1447143115
+      Bisnes_new__18: -22836868
+      Bisnes_new__28: 1360854123
+      Bisnes_new__45: 542155245
+      Bisnes_new__24: 1235228982
+      Bisnes_new__7: -848988842
+      Bisnes_new__0: -314700877
+      Bisnes_new__36: -1691171864
+      Bisnes_new__48: 1518848021
+      Bisnes_new__33: 1876387395
+      Bisnes_new__29: -461836180
+      Bisnes_new__1: 1513968344
+      Bisnes_new__3: -1880811072
+      Bisnes_new__22: -1964204446
+      Bisnes_new__51: 446358283
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
