@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 public class CatScript : MonoBehaviour
 {
@@ -75,7 +76,7 @@ public class CatScript : MonoBehaviour
         Vector2 Dir = Vector3.ClampMagnitude(dif, 1);
 
 
-        if (Input.GetKeyDown(KeyCode.Mouse0) && (ammo > 0) && (ss == true) && (health > 0))
+        if (Input.GetKeyDown(KeyCode.Mouse0) && (ammo > 0) && (ss == true) && (health > 0) && !EventSystem.current.IsPointerOverGameObject())
         {
             ShotAudio.Play();
             ammo -= 1;
@@ -83,7 +84,7 @@ public class CatScript : MonoBehaviour
             rb.AddForce(-Dir.normalized * thrust, ForceMode2D.Impulse);
             Shoot();
         }
-        else if (Input.GetKeyDown(KeyCode.Mouse0) && (ammo == 0) && (ss == true))
+        else if (Input.GetKeyDown(KeyCode.Mouse0) && (ammo == 0) && (ss == true) && !EventSystem.current.IsPointerOverGameObject())
         {
             FalseShotAudio.Play();
         }
