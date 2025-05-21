@@ -6,6 +6,7 @@ using UnityEngine.EventSystems;
 
 public class CatScript : MonoBehaviour
 {
+    public Shake shake; 
     public int damage;
     public int health;
     public int numOfHearts;
@@ -92,7 +93,7 @@ public class CatScript : MonoBehaviour
 
     public void CatRotate(Vector3 dif)
     {
-        
+
 
         float rotateZ = Mathf.Atan2(dif.y, dif.x) * Mathf.Rad2Deg;
         Weapon.transform.rotation = Quaternion.Euler(0f, 0f, rotateZ + offset);
@@ -131,7 +132,7 @@ public class CatScript : MonoBehaviour
         else
         {
             lineRenderer.SetPosition(0, firePoint.position);
-            lineRenderer.SetPosition(1, firePoint.position + firePoint.right * 100 );
+            lineRenderer.SetPosition(1, firePoint.position + firePoint.right * 100);
         }
         StartCoroutine(Line());
     }
@@ -194,7 +195,7 @@ public class CatScript : MonoBehaviour
 
     void CheckingGround()
     {
-        onGround = Physics2D.OverlapBox(GroundCheck.position, GCCollider.size ,0, Ground);
+        onGround = Physics2D.OverlapBox(GroundCheck.position, GCCollider.size, 0, Ground);
 
         if ((onGround == true) & (ammo == 0) & (shootfix == true))
         {
@@ -206,7 +207,7 @@ public class CatScript : MonoBehaviour
 
     void FixedUpdate()
     {
-        if(health > numOfHearts)
+        if (health > numOfHearts)
         {
             health = numOfHearts;
         }
@@ -235,10 +236,20 @@ public class CatScript : MonoBehaviour
     {
         if (coll.tag == "badPlatform")
         {
-            //gameObject.SetActive(false);
             LChen.levelReload();
         }
     }
+    
+    
+
+    private void OnCollisionEnter2D(Collision2D collision)
+{
+    if (collision.gameObject.CompareTag("Floor"))
+    {
+        shake.CamShake(); 
+    }
+}
+
 }
 
 
