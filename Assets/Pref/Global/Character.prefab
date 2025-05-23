@@ -143,6 +143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f32b8bc6f0a82b4d9da6d874b11c7a8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  shake: {fileID: 0}
   damage: 1
   health: 3
   numOfHearts: 3

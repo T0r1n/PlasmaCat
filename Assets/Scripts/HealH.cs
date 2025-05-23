@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class HealH : MonoBehaviour
 {
-    public GameObject player;
     // Start is called before the first frame update
     void Start()
     {
@@ -13,9 +12,9 @@ public class HealH : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (player.gameObject.tag == "Player")
+        if (collision.gameObject.tag == "Player")
         {
-            StartCoroutine(player.GetComponent<CatScript>().Healing(1));
+            StartCoroutine(collision.gameObject.GetComponent<CatScript>().Healing(1));
             gameObject.SetActive(false);
         }  
     }

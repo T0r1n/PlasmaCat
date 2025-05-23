@@ -2878,7 +2878,7 @@ GameObject:
   - component: {fileID: 1031542642}
   m_Layer: 6
   m_Name: Tilemap
-  m_TagString: Untagged
+  m_TagString: Floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12538,6 +12538,30 @@ MonoBehaviour:
   - {x: 0.30594254, y: -0.62349176, z: 0}
   - {x: 0.31476212, y: 0.72052073, z: 0}
   - {x: -0.4382553, y: 0.7028792, z: 0}
+--- !u!1 &1732356441 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6598316180854455232, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
+  m_PrefabInstance: {fileID: 1227324221376167676}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1732356444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1732356441}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19145f486e986c542bdc4355be93b39f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dump: 1.5
+  offset: {x: 2, y: 1}
+  isLeft: 0
+  leftLimit: -25
+  rightLimit: -8
+  bottomLimit: 4
+  upLimit: 35
 --- !u!1 &1736198251
 GameObject:
   m_ObjectHideFlags: 0
@@ -13616,6 +13640,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 1227324220851907406, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1227324220851907406, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3408796951164646991, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
       propertyPath: LChen
       value: 
@@ -13688,7 +13720,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas/Camera/Character
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 1227324220851907411, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
 --- !u!1 &1227324221376167677 stripped
 GameObject:

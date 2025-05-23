@@ -18,8 +18,8 @@ public class Shake : MonoBehaviour
 
         while (elapsed < duration)
         {
-            float x = Random.Range(-1f, 1f) * magnitude;
-            float y = Random.Range(-1f, 1f) * magnitude;
+            float x = 1f * magnitude;
+            float y = 1f * magnitude;
             transform.localPosition = originalPos + new Vector3(x, y, 0);
 
             elapsed += Time.deltaTime;
