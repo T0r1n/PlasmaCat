@@ -48,6 +48,7 @@ public class CatScript : MonoBehaviour
     [SerializeField] private AudioSource ShotAudio;
     [SerializeField] private AudioSource FalseShotAudio;
     [SerializeField] private AudioSource DeathAudio;
+    [SerializeField] private AudioSource BumpAudio;
 
     // Start is called before the first frame update
     void Start()
@@ -244,10 +245,11 @@ public class CatScript : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
 {
-    
-    if (collision.gameObject.CompareTag("Floor"))
+
+        if (collision.gameObject.CompareTag("Floor"))
         {
             shake.CamShake();
+            BumpAudio.Play();
         }
 }
 

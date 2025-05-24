@@ -743,18 +743,6 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6730377130356230964}
     - target: {fileID: 4487324811172424711, guid: 8fb8af030b3b6a34c8fc3aaf4a2b4d5d, type: 3}
-      propertyPath: onGround
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4487324811172424711, guid: 8fb8af030b3b6a34c8fc3aaf4a2b4d5d, type: 3}
-      propertyPath: ShotAudio
-      value: 
-      objectReference: {fileID: 8857594030559450696}
-    - target: {fileID: 4487324811172424711, guid: 8fb8af030b3b6a34c8fc3aaf4a2b4d5d, type: 3}
-      propertyPath: DeathAudio
-      value: 
-      objectReference: {fileID: 1980482495755644017}
-    - target: {fileID: 4487324811172424711, guid: 8fb8af030b3b6a34c8fc3aaf4a2b4d5d, type: 3}
       propertyPath: healEffect
       value: 
       objectReference: {fileID: 910288207149009949}
@@ -762,14 +750,6 @@ PrefabInstance:
       propertyPath: impactEffect
       value: 
       objectReference: {fileID: 887388520171711273}
-    - target: {fileID: 4487324811172424711, guid: 8fb8af030b3b6a34c8fc3aaf4a2b4d5d, type: 3}
-      propertyPath: FalseShotAudio
-      value: 
-      objectReference: {fileID: 1530257084644420557}
-    - target: {fileID: 4487324811172424711, guid: 8fb8af030b3b6a34c8fc3aaf4a2b4d5d, type: 3}
-      propertyPath: hearts.Array.size
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 4487324811172424711, guid: 8fb8af030b3b6a34c8fc3aaf4a2b4d5d, type: 3}
       propertyPath: hearts.Array.data[0]
       value: 
@@ -904,24 +884,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8fb8af030b3b6a34c8fc3aaf4a2b4d5d, type: 3}
---- !u!82 &1530257084644420557 stripped
-AudioSource:
-  m_CorrespondingSourceObject: {fileID: 303082947804770693, guid: 8fb8af030b3b6a34c8fc3aaf4a2b4d5d, type: 3}
-  m_PrefabInstance: {fileID: 1227324220181109320}
-  m_PrefabAsset: {fileID: 0}
---- !u!82 &1980482495755644017 stripped
-AudioSource:
-  m_CorrespondingSourceObject: {fileID: 753300387452433977, guid: 8fb8af030b3b6a34c8fc3aaf4a2b4d5d, type: 3}
-  m_PrefabInstance: {fileID: 1227324220181109320}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &3408796951164646995 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4487324811172424731, guid: 8fb8af030b3b6a34c8fc3aaf4a2b4d5d, type: 3}
-  m_PrefabInstance: {fileID: 1227324220181109320}
-  m_PrefabAsset: {fileID: 0}
---- !u!82 &8857594030559450696 stripped
-AudioSource:
-  m_CorrespondingSourceObject: {fileID: 7774385274410044416, guid: 8fb8af030b3b6a34c8fc3aaf4a2b4d5d, type: 3}
   m_PrefabInstance: {fileID: 1227324220181109320}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1227324220385758536
