@@ -358,7 +358,7 @@ GameObject:
   - component: {fileID: 50767015}
   m_Layer: 6
   m_Name: Tilemap
-  m_TagString: Untagged
+  m_TagString: Floor
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31883,6 +31883,10 @@ PrefabInstance:
       propertyPath: bottomLimit
       value: 15
       objectReference: {fileID: 0}
+    - target: {fileID: 3408796951164646993, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3408796951164646995, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
       propertyPath: m_LocalPosition.x
       value: -4.1
@@ -31945,7 +31949,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5822844463479073095, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
       propertyPath: rightLimit
-      value: 149.53
+      value: 144.8
       objectReference: {fileID: 0}
     - target: {fileID: 5822844463479073095, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
       propertyPath: bottomLimit
