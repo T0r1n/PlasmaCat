@@ -670,11 +670,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 
+  cloudProjectId: f61f9aa8-40e9-43b9-b29c-3804e81f3b84
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: PlasmaCat
+  organizationId: tor1n
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
