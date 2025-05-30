@@ -8,6 +8,9 @@ public class New_FlyEnemy : MonoBehaviour
     Rigidbody2D _RBody;
     Rigidbody2D _PRBody;
     Animator EnAnim;
+    public AudioSource audioSource;
+    public float maxDistance = 35f;
+    public float minDistance = 3f;
 
 
     // Start is called before the first frame update
@@ -21,6 +24,42 @@ public class New_FlyEnemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        float distance = Vector2.Distance(transform.position, player.transform.position);
+
+        if (distance <= maxDistance)
+        {
+            audioSource.volume = 1f - (distance / maxDistance);
+
+            if (!audioSource.isPlaying)
+                audioSource.Play();
+        }
+        else
+        {
+            if (audioSource.isPlaying)
+                audioSource.Stop();
+        }
+        // float distance = Vector2.Distance(transform.position, player.transform.position);
+
+        // if (distance <= maxDistance)
+        // {
+        //     if (distance <= minDistance)
+        //     {
+        //         audioSource.volume = 1f; // Максимальная громкость внутри minDistance
+        //     }
+        //     else
+        //     {
+        //         // Плавное затухание от minDistance до maxDistance
+        //         audioSource.volume = 1f - (distance - minDistance) / (maxDistance - minDistance);
+        //     }
+
+        //     if (!audioSource.isPlaying)
+        //         audioSource.Play();
+        // }
+        // else
+        // {
+        //     if (audioSource.isPlaying)
+        //         audioSource.Stop();
+        // }
         Flip();
     }
 
