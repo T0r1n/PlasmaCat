@@ -49,6 +49,7 @@ public class CatScript : MonoBehaviour
     [SerializeField] private AudioSource FalseShotAudio;
     [SerializeField] private AudioSource DeathAudio;
     [SerializeField] private AudioSource BumpAudio;
+    [SerializeField] private AudioSource TrampAudio;
 
     // Start is called before the first frame update
     void Start()
@@ -240,18 +241,26 @@ public class CatScript : MonoBehaviour
             LChen.levelReload();
         }
     }
-    
-    
 
-    private void OnCollisionEnter2D(Collision2D collision)
+
+
+   private void OnCollisionEnter2D(Collision2D collision)
 {
-
         if (collision.gameObject.CompareTag("Floor"))
         {
             shake.CamShake();
             BumpAudio.Play();
         }
+        else if (collision.gameObject.CompareTag("Tramp"))
+        {
+            float impactForce = collision.relativeVelocity.magnitude;
+            if (impactForce > 10.0f) // минимальная сила для воспроизведения звука
+            {
+                TrampAudio.Play();
+            }
+    }
 }
+
 
 }
 
