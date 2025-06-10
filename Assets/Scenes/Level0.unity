@@ -32232,14 +32232,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3517588151992862027, guid: e2ada9a4d9dc72147bc0c7b2276fba45, type: 3}
-      propertyPath: m_audioClip
-      value: 
-      objectReference: {fileID: 8300000, guid: efe6a955a751bc048b0636e0d9d6baa6, type: 3}
-    - target: {fileID: 3517588151992862027, guid: e2ada9a4d9dc72147bc0c7b2276fba45, type: 3}
-      propertyPath: rolloffMode
-      value: 2
-      objectReference: {fileID: 0}
     - target: {fileID: 4734430123877863091, guid: e2ada9a4d9dc72147bc0c7b2276fba45, type: 3}
       propertyPath: player
       value: 
@@ -32248,10 +32240,6 @@ PrefabInstance:
       propertyPath: target
       value: 
       objectReference: {fileID: 1772548335}
-    - target: {fileID: 4734430123877863101, guid: e2ada9a4d9dc72147bc0c7b2276fba45, type: 3}
-      propertyPath: health
-      value: 3
-      objectReference: {fileID: 0}
     - target: {fileID: 4734430123877863103, guid: e2ada9a4d9dc72147bc0c7b2276fba45, type: 3}
       propertyPath: m_LocalPosition.x
       value: 10.3
@@ -34937,7 +34925,7 @@ Tilemap:
       - {fileID: -407375421, guid: 8dd6b94e1e96b42459fb8f24981717fe, type: 3}
       - {fileID: 1552445727, guid: 8dd6b94e1e96b42459fb8f24981717fe, type: 3}
       - {fileID: 1499501115, guid: 8dd6b94e1e96b42459fb8f24981717fe, type: 3}
-      m_AnimationSpeed: 15
+      m_AnimationSpeed: 15.000001
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 84, y: 30, z: 0}
