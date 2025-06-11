@@ -280,8 +280,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 0}
   audioSource: {fileID: 3517588151992862027}
-  maxDistance: 35
-  minDistance: 10
+  maxDistance: 20
+  minDistance: 5
 --- !u!50 &4734430123877863088
 Rigidbody2D:
   serializedVersion: 4

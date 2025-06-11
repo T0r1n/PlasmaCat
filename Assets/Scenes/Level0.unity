@@ -22392,7 +22392,7 @@ TilemapCollider2D:
   m_GameObject: {fileID: 50767011}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 6bc4fc39dbf166c4fb977b962edd06d8, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -34925,7 +34925,7 @@ Tilemap:
       - {fileID: -407375421, guid: 8dd6b94e1e96b42459fb8f24981717fe, type: 3}
       - {fileID: 1552445727, guid: 8dd6b94e1e96b42459fb8f24981717fe, type: 3}
       - {fileID: 1499501115, guid: 8dd6b94e1e96b42459fb8f24981717fe, type: 3}
-      m_AnimationSpeed: 15.000001
+      m_AnimationSpeed: 15
       m_AnimationTimeOffset: 0
       m_IsLooping: 1
   - first: {x: 84, y: 30, z: 0}
