@@ -50,6 +50,7 @@ public class CatScript : MonoBehaviour
     [SerializeField] private AudioSource DeathAudio;
     [SerializeField] private AudioSource BumpAudio;
     [SerializeField] private AudioSource TrampAudio;
+    [SerializeField] private AudioSource DamageAudio;
 
     // Start is called before the first frame update
     void Start()
@@ -117,9 +118,17 @@ public class CatScript : MonoBehaviour
     public void Shoot()
     {
         shootfix = false;
-        RaycastHit2D hitInfo = Physics2D.Raycast(firePoint.position, firePoint.right);
-        if (hitInfo)
+
+        ContactFilter2D filter = new ContactFilter2D();
+        filter.useTriggers = false; // Игнорируем триггеры
+        filter.SetLayerMask(Physics2D.GetLayerCollisionMask(gameObject.layer)); // Можно ограничить по слоям, если нужно
+
+        RaycastHit2D[] results = new RaycastHit2D[1];
+        int hitCount = Physics2D.Raycast(firePoint.position, firePoint.right, filter, results);
+
+        if (hitCount > 0)
         {
+            RaycastHit2D hitInfo = results[0];
             StartCoroutine(IMPeffect(hitInfo));
 
             lineRenderer.SetPosition(0, firePoint.position);
@@ -137,6 +146,7 @@ public class CatScript : MonoBehaviour
             lineRenderer.SetPosition(1, firePoint.position + firePoint.right * 100);
         }
         StartCoroutine(Line());
+
     }
 
     IEnumerator Line()
@@ -172,6 +182,7 @@ public class CatScript : MonoBehaviour
     {
         if (health > 0)
         {
+            DamageAudio.Play();
             health -= damage;
             anim.Play("take_damage");
             anim.SetInteger("hp", health);
