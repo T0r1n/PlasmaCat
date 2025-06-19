@@ -154,15 +154,15 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
-  fullHeart: {fileID: 1371751764, guid: 9bc73b0e29aa2b144a12f51abef57b08, type: 3}
-  emptyHeart: {fileID: 109443636, guid: 9bc73b0e29aa2b144a12f51abef57b08, type: 3}
+  fullHeart: {fileID: 21300000, guid: 02c61709d71b32a45a63745b8c05fe25, type: 3}
+  emptyHeart: {fileID: 21300000, guid: afeb7e5304e29504b874f99618786ed4, type: 3}
   offset: 0
   Weapon: {fileID: 4487324812293241414}
   GCheck: {fileID: 0}
   firePoint: {fileID: 4487324811439261541}
   lineRenderer: {fileID: 4487324811764305797}
-  impactEffect: {fileID: 0}
-  healEffect: {fileID: 0}
+  impactEffect: {fileID: 5734008648613558441, guid: 352f1d87c5d5ec0478e4e85a0367e90b, type: 3}
+  healEffect: {fileID: 5539347005643786337, guid: 2013f7b522a73a24c9712c2d16e52638, type: 3}
   onGround: 0
   GroundCheck: {fileID: 4487324812827492771}
   GCCollider: {fileID: 4487324812827492770}

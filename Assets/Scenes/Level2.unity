@@ -12673,17 +12673,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!114 &1776596793 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 7436169106271958529, guid: 95c7ccc1042ba9a4cb8a0ad44ac557d3, type: 3}
-  m_PrefabInstance: {fileID: 520154602}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dbf89076252fb4a48ad60fd7491cfe2e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1860231241
 GameObject:
   m_ObjectHideFlags: 0
@@ -13648,18 +13637,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3408796951164646991, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
-      propertyPath: LChen
-      value: 
-      objectReference: {fileID: 1776596793}
-    - target: {fileID: 3408796951164646991, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
-      propertyPath: healEffect
-      value: 
-      objectReference: {fileID: 1227324221376167677}
-    - target: {fileID: 3408796951164646991, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
-      propertyPath: impactEffect
-      value: 
-      objectReference: {fileID: 1227324221376167678}
     - target: {fileID: 3408796951164646995, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
       propertyPath: m_LocalPosition.x
       value: -12.5
@@ -13723,13 +13700,3 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 1227324220851907411, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
---- !u!1 &1227324221376167677 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 910288207149009949, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
-  m_PrefabInstance: {fileID: 1227324221376167676}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1227324221376167678 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 887388520171711273, guid: 7f35a513a696a10449d89f488219c78f, type: 3}
-  m_PrefabInstance: {fileID: 1227324221376167676}
-  m_PrefabAsset: {fileID: 0}
