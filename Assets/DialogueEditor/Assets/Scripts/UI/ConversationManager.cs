@@ -19,6 +19,9 @@ namespace DialogueEditor
             NONE,
         }
 
+        [SerializeField]
+        public GameObject BlockScreen;
+
         private const float TRANSITION_TIME = 0.2f; // Transition time for fades
 
         public static ConversationManager Instance { get; private set; }
@@ -88,6 +91,7 @@ namespace DialogueEditor
 
         private void Awake()
         {
+            BlockScreen = GameObject.Find("BlockScreen");
             // Destroy myself if I am not the singleton
             if (Instance != null && Instance != this)
             {
@@ -626,6 +630,7 @@ namespace DialogueEditor
 
         private void TurnOnUI()
         {
+            BlockScreen.SetActive(true);
             DialoguePanel.gameObject.SetActive(true);
             OptionsPanel.gameObject.SetActive(true);
 
@@ -644,6 +649,7 @@ namespace DialogueEditor
 
         private void TurnOffUI()
         {
+            BlockScreen.SetActive(false);
             DialoguePanel.gameObject.SetActive(false);
             OptionsPanel.gameObject.SetActive(false);
             SetState(eState.Off);
