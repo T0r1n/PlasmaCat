@@ -696,6 +696,10 @@ PrefabInstance:
       propertyPath: m_InstanceId
       value: -1304
       objectReference: {fileID: 0}
+    - target: {fileID: 4435713179906106772, guid: 8fb8af030b3b6a34c8fc3aaf4a2b4d5d, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 24300002, guid: 7660f4403a2485348b88df695ffbacd2, type: 2}
     - target: {fileID: 4487324811172424709, guid: 8fb8af030b3b6a34c8fc3aaf4a2b4d5d, type: 3}
       propertyPath: m_Name
       value: Character
@@ -880,7 +884,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7589552835045339347, guid: f8a8b7580726030438af56740dd071d2, type: 3}
       propertyPath: m_AdditionalShaderChannelsFlag
-      value: 0
+      value: 25
       objectReference: {fileID: 0}
     - target: {fileID: 7589552835045339348, guid: f8a8b7580726030438af56740dd071d2, type: 3}
       propertyPath: m_Pivot.x

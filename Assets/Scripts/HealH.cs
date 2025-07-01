@@ -12,9 +12,10 @@ public class HealH : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Player")
+        CatScript catScript = collision.gameObject.GetComponent<CatScript>();
+        if (collision.gameObject.tag == "Player" && catScript.health != 3)
         {
-            StartCoroutine(collision.gameObject.GetComponent<CatScript>().Healing(1));
+            StartCoroutine(catScript.Healing(1));
             gameObject.SetActive(false);
         }  
     }
